@@ -607,7 +607,7 @@ header .header__top .header__logo > a:hover {
   opacity: .7;
 }
 header .header__top .header__logo > a > img {
-  max-width: 390px;
+  max-width: 290px;
 }
 
 footer {
