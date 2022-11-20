@@ -537,7 +537,7 @@ header .header__menu ul > li {
   margin-right: 40px;
 }
 header .header__menu ul > li > a {
-  font-size: 30px;
+  font-size: 24px;
   line-height: 40px;
   color: #141414;
   font-weight: 400;
@@ -2097,19 +2097,19 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
   }
 
   header .header__menu ul > li > a {
-    font-size: 32px;
-    line-height: 32px;
+    font-size: 23px;
+    line-height: 23px;
   }
 
   header .header__menu > a {
-    font-size: 32px;
+    font-size: 23px;
   }
 
   header .header__menu .cart__info > a {
-    font-size: 32px;
+    font-size: 23px;
   }
   header .header__menu .cart__info > a span {
-    font-size: 32px;
+    font-size: 23px;
   }
 
   header .header__menu .cart__info {
