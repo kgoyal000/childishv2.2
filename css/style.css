@@ -3113,6 +3113,6 @@ header, .gallery__wrapper, .learn__more .container, .collection__wrapper, .inner
   padding-left: 30px;
 }
 .container {
-  max-width: 90%;
+  max-width: 80%;
 }
 }
