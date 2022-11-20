@@ -3109,7 +3109,10 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
 
 @media screen and (min-width: 991px){
 header, .gallery__wrapper, .learn__more .container, .collection__wrapper, .inner__element{
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.container {
+  max-width: 90%;
 }
 }
