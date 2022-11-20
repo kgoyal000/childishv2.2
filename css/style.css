@@ -1389,9 +1389,9 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 .inner__element .outer__element .bottom__element {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 80px;
-  padding: 40px 120px;
-  padding-bottom: 70px;
+  grid-column-gap: 60px;
+  padding: 30px 90px;
+  padding-bottom: 60px;
 }
 .inner__element .outer__element .bottom__element .desc__product > p {
   margin-top: 0px;
