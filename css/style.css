@@ -157,7 +157,7 @@ button {
   height: 85px;
   background-color: #141414;
   border-radius: 250px;
-  font-size: 40px;
+  font-size: 30px;
   color: #fff;
   font-weight: 400;
   -webkit-transition: .4s ease all;
@@ -496,12 +496,12 @@ header .header__menu .cart__info > a {
       -ms-flex-pack: center;
           justify-content: center;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   color: #141414;
 }
 header .header__menu .cart__info > a > span {
   margin-left: 7px;
-  font-size: 30px;
+  font-size: 20px;
   color: #fff;
   min-width: 53px;
   max-width: 53px;
@@ -1022,7 +1022,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
           align-items: center;
 }
 .float__menu > .inner__float > ul > li > a {
-  font-size: 32px;
+  font-size: 24px;
   text-decoration: none;
   color: #141414;
 }
@@ -1066,13 +1066,13 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
           justify-content: center;
 }
 .learn__more .learn__top .main__logos ul > li {
-  margin-right: 70px;
+  margin-right: 40px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
 }
 .learn__more .learn__top .main__logos ul > li > img {
-  max-width: 100%;
+  max-width: 70%;
 }
 .learn__more .learn__top .main__logos ul > li:last-child {
   margin-right: 0px;
@@ -1208,7 +1208,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   opacity: .7;
 }
 .learn__more .outer__learn .learn__box > .learn__right form > span {
-  font-size: 60px;
+  font-size: 40px;
   font-family: "Lores22" ,sans-serif;
   font-weight: bold;
   display: -webkit-box;
@@ -1259,7 +1259,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 .learn__more .outer__learn .learn__box > .learn__right > p {
   text-align: center;
   margin-top: 0px;
-  font-size: 30px;
+  font-size: 26px;
   line-height: 36px;
   font-family: "Lores21" ,sans-serif;
 }
@@ -1269,7 +1269,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 }
 .learn__more .outer__learn .learn__box > .learn__left > h6 {
   margin-top: 0px;
-  font-size: 29px;
+  font-size: 23px;
   line-height: 36px;
   font-family: "Lores21" ,sans-serif;
   margin-bottom: 25px;
@@ -1290,7 +1290,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   padding-left: 20px;
 }
 .learn__more .outer__learn .learn__box > .learn__left .watermark .watermark__desc > span {
-  font-size: 47px;
+  font-size: 37px;
   font-family: "Handwriting"  ,sans-serif;
   line-height: 40px;
 }
@@ -1580,7 +1580,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  font-size: 44px;
+  font-size: 34px;
   color: #fff;
   font-family: "Lores21" ,sans-serif;
   cursor: pointer;
@@ -1646,7 +1646,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   max-height: 70px;
   border: 2px solid #000;
   border-radius: 250px;
-  font-size: 34px;
+  font-size: 28px;
   text-decoration: none;
   -webkit-transition: .4s ease all;
   transition: .4s ease all;
@@ -1657,10 +1657,10 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 }
 .inner__element .outer__element .top__element > div.element__main form > h2 {
   margin-top: 0px;
-  font-size: 64px;
+  font-size: 42px;
   font-family: 'Lores22',sans-serif;
   font-weight: bold;
-  line-height: 64px;
+  line-height: 42px;
   margin-bottom: 0px;
   text-align: center;
   word-break: break-all;
@@ -1723,7 +1723,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 }
 .collection__wrapper .outer__collection .head__collection > h2 {
   margin: 0px;
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Lores21' ,sans-serif;
   text-align: center;
 }
@@ -1808,7 +1808,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 }
 .grid__collection .elem__collection .collection__info .collect__desc > h2 {
   margin: 0px;
-  font-size: 37px;
+  font-size: 27px;
   font-family: "Lores22" ,sans-serif;
 }
 .grid__collection .elem__collection .collection__info .collect__desc > h6 {
@@ -2029,7 +2029,7 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
   }
 
   .inner__element .outer__element .top__element > div.element__main form > h2 {
-    font-size: 56px;
+    font-size: 40px;
   }
 
   .inner__element .outer__element .top__element > div.element__main form > h3 {
