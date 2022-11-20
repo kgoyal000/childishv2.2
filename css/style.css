@@ -47,7 +47,7 @@ button {
   border: 3px solid #141414;
   background-color: #fff;
   color: #141414;
-  font-size: 27px;
+  font-size: 17px;
   border-radius: 250px;
   padding-left: 20px;
   padding-right: 20px;
@@ -115,12 +115,12 @@ button {
 }
 .cart__wrapper .inner__cart .cart__bottom > p {
   margin: 0px;
-  font-size: 24px;
+  font-size: 14px;
   color: #141414;
   font-weight: 400;
 }
 .cart__wrapper .inner__cart .cart__bottom > input {
-  font-size: 24px;
+  font-size: 14px;
   width: 100%;
   color: #141414;
   background-color: transparent;
@@ -157,7 +157,7 @@ button {
   height: 85px;
   background-color: #141414;
   border-radius: 250px;
-  font-size: 54px;
+  font-size: 40px;
   color: #fff;
   font-weight: 400;
   -webkit-transition: .4s ease all;
@@ -248,14 +248,14 @@ button {
   width: 145px;
   text-decoration: none;
   outline: none;
-  font-size: 32px;
+  font-size: 12px;
   line-height: 32px;
   text-align: center;
   border: 3px solid #141414;
   border-radius: 35px;
 }
 .cart__wrapper .inner__cart .products__wrapper > .elem__product > .product__desc .bottom__product .quantity > a {
-  font-size: 32px;
+  font-size: 22px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -270,7 +270,7 @@ button {
   margin-bottom: 3px;
 }
 .cart__wrapper .inner__cart .products__wrapper > .elem__product > .product__desc .bottom__product > a {
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 400;
   text-decoration: none;
   position: relative;
@@ -285,7 +285,7 @@ button {
   background-color: #141414;
 }
 .cart__wrapper .inner__cart .products__wrapper > .elem__product > .product__desc > span {
-  font-size: 24px;
+  font-size: 14px;
   font-weight: bold;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -294,7 +294,7 @@ button {
 .cart__wrapper .inner__cart .products__wrapper > .elem__product > .product__desc > h6 {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-size: 24px;
+  font-size: 14px;
   font-weight: 400;
   margin-bottom: -10px;
 }
@@ -350,7 +350,7 @@ button {
   font-family: 'Lores21' ,sans-serif;
   font-weight: 400;
   padding: 5px 15px;
-  font-size: 32px;
+  font-size: 22px;
 }
 .cart__wrapper .inner__cart .cart__desc {
   border-bottom: 1px solid #141414;
@@ -364,7 +364,7 @@ button {
   font-family: 'Lores21' ,sans-serif;
   font-weight: 400;
   margin: 0px;
-  font-size: 54px;
+  font-size: 30px;
 }
 .cart__wrapper .inner__cart .top__cart {
   position: relative;
@@ -425,7 +425,7 @@ button {
 .top__info .outer__top > p {
   text-align: center;
   margin: 0px;
-  font-size: 18px;
+  font-size: 11px;
   font-weight: bold;
   color: #fff;
   text-transform: uppercase;
@@ -470,7 +470,7 @@ header .header__menu > a {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  font-size: 40px;
+  font-size: 30px;
   color: #fff;
   text-decoration: none;
   font-weight: 400;
@@ -496,12 +496,12 @@ header .header__menu .cart__info > a {
       -ms-flex-pack: center;
           justify-content: center;
   text-decoration: none;
-  font-size: 40px;
+  font-size: 30px;
   color: #141414;
 }
 header .header__menu .cart__info > a > span {
   margin-left: 7px;
-  font-size: 40px;
+  font-size: 30px;
   color: #fff;
   min-width: 53px;
   max-width: 53px;
@@ -537,7 +537,7 @@ header .header__menu ul > li {
   margin-right: 40px;
 }
 header .header__menu ul > li > a {
-  font-size: 40px;
+  font-size: 30px;
   line-height: 40px;
   color: #141414;
   font-weight: 400;
@@ -634,7 +634,7 @@ footer .outer__footer .bottom__footer {
 footer .outer__footer .bottom__footer > p {
   margin: 0px;
   color: #fff;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
 }
 footer .outer__footer .bottom__footer ul {
@@ -674,7 +674,7 @@ footer .outer__footer .bottom__footer ul > li > a {
   max-height: 36px;
   border-radius: 250px;
   color: #141414;
-  font-size: 18px;
+  font-size: 13px;
   background-color: #E9E8E9;
   text-decoration: none;
 }
@@ -730,7 +730,7 @@ footer .outer__footer .top__footer .footer__form {
 }
 footer .outer__footer .top__footer .footer__form form > p {
   margin-top: 15px;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 400;
   color: #fff;
   text-align: center;
@@ -759,7 +759,7 @@ footer .outer__footer .top__footer .footer__form form .field__wrapper {
 }
 footer .outer__footer .top__footer .footer__form form .field__wrapper .group__submit > button {
   border-radius: 250px;
-  font-size: 27px;
+  font-size: 17px;
   color: #fff;
   border: 3px solid #fff;
   background-color: #141414;
@@ -792,7 +792,7 @@ footer .outer__footer .top__footer .footer__form > p {
   text-align: center;
   margin-top: 0px;
   margin-bottom: 15px;
-  font-size: 22px;
+  font-size: 12px;
   line-height: 32px;
   color: #fff;
   font-weight: 400;
@@ -815,7 +815,7 @@ footer .outer__footer .top__footer .footer__links > .column__link {
 }
 footer .outer__footer .top__footer .footer__links > .column__link > h6 {
   border-bottom: 1px solid #fff;
-  font-size: 29px;
+  font-size: 19px;
   color: #fff;
   font-weight: 400;
   margin: 0px;
@@ -838,7 +838,7 @@ footer .outer__footer .top__footer .footer__links > .column__link ul {
 }
 footer .outer__footer .top__footer .footer__links > .column__link ul > li > a {
   white-space: nowrap;
-  font-size: 22px;
+  font-size: 12px;
   font-weight: 400;
   color: #fff;
   text-decoration: none;
@@ -929,7 +929,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   margin-right: auto;
 }
 .float__menu > .inner__float .button__cart > a {
-  font-size: 32px;
+  font-size: 22px;
   text-decoration: none;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -955,7 +955,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
 .float__menu > .inner__float .socials__float > p {
   text-align: center;
   margin: 0px;
-  font-size: 15px;
+  font-size: 9px;
 }
 .float__menu > .inner__float .socials__float ul {
   padding: 0px;
