@@ -721,7 +721,7 @@ footer .outer__footer .top__footer .footer__logo > a:hover {
   opacity: .7;
 }
 footer .outer__footer .top__footer .footer__logo > a > img {
-  max-width: 245px;
+  max-width: 175px;
 }
 footer .outer__footer .top__footer .footer__form {
   position: relative;
@@ -1310,7 +1310,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   display: inline-flex;
 }
 .learn__more .outer__learn .learn__box > .learn__left .watermark > span > img {
-  max-width: 95px;
+  max-width: 65px;
 }
 .learn__more .outer__learn .learn__box > .learn__left > p {
   margin: 0px;
@@ -1368,7 +1368,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   opacity: .7;
 }
 .learn__more .outer__learn .learn__head > a > img {
-  max-width: 160px;
+  max-width: 90px;
 }
 .learn__more .outer__learn .learn__head > p {
   margin-top: 0px;
@@ -1458,7 +1458,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   padding-right: 30px;
 }
 .inner__element .outer__element .top__element .slider__images .elem__slide > img {
-  max-width: 490px;
+  max-width: 390px;
   width: 100%;
   max-height: 640px;
   -o-object-fit: contain;
@@ -1497,7 +1497,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   display: inline-flex;
 }
 .inner__element .outer__element .top__element > div.element__main form > span.logo__wrap > img {
-  max-width: 105px;
+  max-width: 85px;
 }
 .inner__element .outer__element .top__element > div.element__main form .bottom__info {
   margin-top: 20px;
@@ -1706,7 +1706,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   display: inline-flex;
 }
 .collection__wrapper--slide > span > img {
-  max-width: 43px;
+  max-width: 34px;
 }
 
 .grid__collection .elem__collection .collection__info .collect__desc > h2 {
@@ -1828,7 +1828,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   left: 6px;
 }
 .grid__collection .elem__collection .collection__info > span.logo__collection > img {
-  max-width: 94px;
+  max-width: 74px;
 }
 .grid__collection .elem__collection .collection__top {
   padding-top: 80px;
@@ -2054,7 +2054,7 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
   }
 
   footer .outer__footer .top__footer .footer__logo > a > img {
-    max-width: 200px;
+    max-width: 180px;
   }
 
   .cart__wrapper .inner__cart .products__wrapper {
@@ -2142,7 +2142,7 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
   }
 
   .inner__element .outer__element > span > img {
-    max-width: 33px;
+    max-width: 30px;
   }
 
   .inner__element .outer__element > span {
