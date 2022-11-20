@@ -251,7 +251,7 @@ button {
   font-size: 32px;
   line-height: 32px;
   text-align: center;
-  border: 2px solid #141414;
+  border: 3px solid #141414;
   border-radius: 35px;
 }
 .cart__wrapper .inner__cart .products__wrapper > .elem__product > .product__desc .bottom__product .quantity > a {
@@ -940,7 +940,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border: 2px solid #141414;
+  border: 3px solid #141414;
   border-radius: 250px;
   width: 100%;
 }
@@ -1926,7 +1926,7 @@ footer .outer__footer .top__footer .footer__links > .column__link:last-child {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border: 2px solid #141414;
+  border: 3px solid #141414;
   border-radius: 250px;
   font-size: 18px;
   text-decoration: none;
@@ -3105,4 +3105,11 @@ footer .outer__footer .top__footer .footer__links > .column__link > h6 {
     max-width: 200px;
     margin-top: 20px;
   }
+}
+
+@media screen and (min-width: 991px){
+header, .gallery__wrapper, .learn__more container, .collection__wrapper, .inner__element{
+  padding-right: 100px;
+  padding-left: 100px;
+}
 }
